@@ -12,7 +12,7 @@ import it.data.NumTelefono;
 
 
 
-
+//aggiungo un commento di prova
 
 @Stateless
 @LocalBean
